@@ -1,0 +1,10 @@
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.deps.json
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\bin\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.sourcelink.json
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.dll
+C:\Users\fakathik\source\repos\HRLeaveManagement\HR.LeaveManagement.Domain\obj\Debug\netstandard2.1\HR.LeaveManagement.Domain.pdb

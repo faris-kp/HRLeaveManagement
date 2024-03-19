@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{54E54D3C-12CC-4128-9F69-BDB5A0105200}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{E3DDA894-63E8-4B6F-981C-BEB9F30B471D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{D985C6B8-8B4F-47E8-AEE3-BAF2FF73FAE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{DAFF1EAD-0113-46ED-BA61-113654C58C30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E1DDEFBD-AFEC-4726-8CC7-3B49CFB69E5E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UI", "UI", "{52EA39CD-99EA-4990-BEEF-AD8A7BB21000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HR.LeaveManagement.Domain", "HR.LeaveManagement.Domain\HR.LeaveManagement.Domain.csproj", "{6DCA94E2-9653-423F-A595-DEACB9683617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCA94E2-9653-423F-A595-DEACB9683617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCA94E2-9653-423F-A595-DEACB9683617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCA94E2-9653-423F-A595-DEACB9683617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCA94E2-9653-423F-A595-DEACB9683617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E3DDA894-63E8-4B6F-981C-BEB9F30B471D} = {54E54D3C-12CC-4128-9F69-BDB5A0105200}
+		{DAFF1EAD-0113-46ED-BA61-113654C58C30} = {54E54D3C-12CC-4128-9F69-BDB5A0105200}
+		{E1DDEFBD-AFEC-4726-8CC7-3B49CFB69E5E} = {54E54D3C-12CC-4128-9F69-BDB5A0105200}
+		{52EA39CD-99EA-4990-BEEF-AD8A7BB21000} = {54E54D3C-12CC-4128-9F69-BDB5A0105200}
+		{6DCA94E2-9653-423F-A595-DEACB9683617} = {DAFF1EAD-0113-46ED-BA61-113654C58C30}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {232F16F5-51EF-4F87-BDDF-C3BCD16C8365}
+	EndGlobalSection
+EndGlobal
